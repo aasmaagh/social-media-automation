@@ -1,0 +1,16 @@
+version: '3'
+services:
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379:6379"
+  node-app:
+    image: node:16
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: ["node", "src/index.js"]  # ou o comando que você usa para rodar o seu app
+    depends_on:
+      - redis
+    ports:
+      - "3000:3000"
