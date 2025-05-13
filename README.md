@@ -37,7 +37,7 @@ Este projeto automatiza tarefas em redes sociais, como o LinkedIn, utilizando **
 ### 3. Clone este repositório e instale as dependências
 
 ```bash
-    git clone https://github.com/seu-usuario/social-media-automation.git
+    git clone https://github.com/Lucas-Jav/social-media-automation.git
     cd social-media-automation
     npm install
 ```
